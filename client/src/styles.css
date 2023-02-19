@@ -7,6 +7,24 @@ body {
   margin: 0;
 }
 
+.create-contract {
+  margin: 1em 2em;
+  padding: 1em 2em;
+  background-color: #F3F3F3;
+  border-style: solid;
+  cursor: pointer;
+}
+.create-contract:hover {
+  margin: 1em 2em;
+  padding: 1em 2em;
+  background-color: #282C34;
+  color: #F3F3F3;
+  border-radius: 10px;
+  border-style: solid;
+  border-color: #282C34;
+  cursor: pointer;
+}
+
 .container .ql-editor {
   width: 8.5in;
   min-height: 11in;
